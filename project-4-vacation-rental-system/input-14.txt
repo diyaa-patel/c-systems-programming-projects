@@ -1,0 +1,18 @@
+list
+list names
+list available
+reserve 786 8 23 mary@funmail.com
+search date 8 23
+reserve 918 10 11 larry@zahoo.com
+reserve 918 6 21 larry@zahoo.com
+reserve 214 11 1 charlie@inbox.com
+search date 6 14
+reserve 502 614 pete@zahoo.com
+search customer mary@funmail.com
+search customer noname@nomail.com
+cancel 214 11 1
+reserve 214 11 1 lizzy@getmail.com
+search customer charlie@inbox.com
+search customer lizzy@getmail.com
+list available
+quit

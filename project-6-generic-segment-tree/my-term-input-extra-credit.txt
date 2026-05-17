@@ -1,0 +1,4 @@
+add thisIsASuperLongStringToTestMemory
+size
+get 0
+quit

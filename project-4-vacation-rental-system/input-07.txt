@@ -1,0 +1,6 @@
+reserve 108 7 12 sally@coldmail.com
+reserve 214 8 23 sally@coldmail.com
+reserve 214 7 12 sally@coldmail.com
+reserve 424 6 14 sally@coldmail.com
+search customer sally@coldmail.com
+quit

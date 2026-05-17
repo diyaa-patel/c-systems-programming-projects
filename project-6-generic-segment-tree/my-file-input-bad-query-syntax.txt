@@ -1,0 +1,3 @@
+add alpha
+add beta
+query 0

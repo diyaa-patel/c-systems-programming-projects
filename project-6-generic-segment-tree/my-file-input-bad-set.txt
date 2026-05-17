@@ -1,0 +1,2 @@
+set 5 value
+quit

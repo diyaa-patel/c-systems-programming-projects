@@ -1,0 +1,8 @@
+stderr.txt
+output.txt
+sort
+segTreeTest
+driver
+*.gcda
+*.gcno
+*.gcov

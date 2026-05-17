@@ -1,0 +1,36 @@
+cmd> reserve 119 11 15 bettyJo@inlook.com
+
+cmd> reserve 235 8 23 bettyJo@inlook.com
+
+cmd> reserve 749 8 30 bettyJo@inlook.com
+
+cmd> reserve 638 9 20 bettyJo@inlook.com
+
+cmd> reserve 638 8 23 bettyJo@inlook.com
+
+cmd> reserve 568 8 30 bettyJo@inlook.com
+
+cmd> reserve 744 7 26 bettyJo@inlook.com
+
+cmd> reserve 740 10 18 bettyJo@inlook.com
+
+cmd> reserve 807 8 16 bettyJo@inlook.com
+
+cmd> reserve 807 6 7 bettyJo@inlook.com
+
+cmd> cancel 568 8 30
+
+cmd> cancel 235 8 23
+
+cmd> search customer bettyJo@inlook.com
+ID  Name                           Sleeps   Cost  Date
+119 GhZcWZKQtCHnaEg                    11   4824 11/15
+638 Wu uLuUyHfm                        25   2437 08/23
+638 Wu uLuUyHfm                        25   2437 09/20
+740 jZKBjQgezcOeAYmlLYWtof             19   1614 10/18
+744 qyDXXZCiIugUrV                      3    699 07/26
+749 YBSgaXyUoLQOAjTLedDYeEMvXFNW       12   1801 08/30
+807 ImEorUKycgBuhznhvopomXSnxaYwKY     25   6532 06/07
+807 ImEorUKycgBuhznhvopomXSnxaYwKY     25   6532 08/16
+
+cmd> quit

@@ -1,0 +1,10 @@
+list
+list names
+search date 6 21
+reserve 188 6 21 lindam@zahoo.com
+search date 6 21
+cancel 188 6 21
+reserve 398 6 21 lindam@zahoo.com
+search customer lindam@zahoo.com
+list available
+quit

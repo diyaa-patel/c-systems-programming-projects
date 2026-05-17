@@ -1,0 +1,14 @@
+reserve 119 11 15 bettyJo@inlook.com
+reserve 235 8 23 bettyJo@inlook.com
+reserve 749 8 30 bettyJo@inlook.com
+reserve 638 9 20 bettyJo@inlook.com
+reserve 638 8 23 bettyJo@inlook.com
+reserve 568 8 30 bettyJo@inlook.com
+reserve 744 7 26 bettyJo@inlook.com
+reserve 740 10 18 bettyJo@inlook.com
+reserve 807 8 16 bettyJo@inlook.com
+reserve 807 6 7 bettyJo@inlook.com
+cancel 568 8 30
+cancel 235 8 23
+search customer bettyJo@inlook.com
+quit

@@ -1,0 +1,15 @@
+add one
+add two
+add three
+add four
+add five
+add six
+add seven
+add eight
+add nine
+add ten
+query 0 9
+get 9
+set 0 updated
+remove
+quit

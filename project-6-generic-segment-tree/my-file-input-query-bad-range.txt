@@ -1,0 +1,3 @@
+add hi
+add bye
+query 2 0

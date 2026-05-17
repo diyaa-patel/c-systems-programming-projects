@@ -1,0 +1,15 @@
+reserve 512 7 26 tom@coldmail.com
+reserve 624 7 12 dick@coldmail.com
+reserve 798 10 4 harry@coldmail.com
+reserve 786 9 20 tom@coldmail.com
+reserve 823 9 27 dick@coldmail.com
+reserve 204 6 21 harry@coldmail.com
+reserve 345 11 15 tom@coldmail.com
+reserve 398 11 8 dick@coldmail.com
+reserve 108 7 12 harry@coldmail.com
+cancel 823 9 27
+cancel 624 7 12
+search customer tom@coldmail.com
+search customer dick@coldmail.com
+search customer harry@coldmail.com
+quit

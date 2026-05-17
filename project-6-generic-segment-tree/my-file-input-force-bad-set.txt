@@ -1,0 +1,2 @@
+add hi
+set 3 world
